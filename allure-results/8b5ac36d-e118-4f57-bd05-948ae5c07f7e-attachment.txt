@@ -1,0 +1,1 @@
+Verified checkout success message.
